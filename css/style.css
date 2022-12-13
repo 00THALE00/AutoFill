@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#maine {
+    align-items: center;
+    display: flex;
+   text-align: center;
+}
+
+
+
+#blanccarre {
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+}
+
+#pokemon {
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid black;
+}
